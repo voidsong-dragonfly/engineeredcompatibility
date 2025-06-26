@@ -13,6 +13,11 @@ Mod-Datapack adding mod compat to Immersive Engineering machines &amp; products.
     - Adds Iesnium crushing to the Crusher
     - Adds Blackstone, Otherstone, Endstone, Calcite, Lapis, Emerald, Netherite, and Amethyst crushing to the Crusher
     - Adds Datura (Demon's Dream) to the Cloche
+ - Create:
+    - Adds Chocolate to the Mixer
+ - Create: Bitterballen:
+    - Adds Ketchup, Mayonnaise, Frying Oil and Curdled Milk to the Mixer
+    - Adds Sunflower Seeds and Nether Wart to the Crusher
  - PneumaticCraft: Repressurized:
     - Adds Compressed Iron Gears to the Metal Press
  - Supplementaries:
