@@ -16,8 +16,8 @@ Mod-Datapack adding mod compat to Immersive Engineering machines &amp; products.
  - Create:
     - Adds Chocolate to the Mixer
  - Create: Bitterballen:
-    - Adds Ketchup, Mayonnaise, Frying Oil and Curdled Milk to the Mixer
-    - Adds Sunflower Seeds and Nether Wart to the Crusher
+    - Adds Ketchup, Mayonnaise, Frying Oil and Curdled Milk to the Mixer, courtesy of [Gammel2013](https://github.com/Gammel2013)
+    - Adds Sunflower Seeds and Nether Wart to the Crusher, courtesy of [Gammel2013](https://github.com/Gammel2013)
  - PneumaticCraft: Repressurized:
     - Adds Compressed Iron Gears to the Metal Press
  - Supplementaries:
