@@ -101,6 +101,22 @@
     {
       "id": "undergarden:cloggrum_tile_stairs",
       "required": false
+    },
+    {
+      "id": "#enderscape:shadoline_blocks",
+      "required": false
+    },
+    {
+      "id": "#enderscape:magnia_sprouts",
+      "required": false
+    },
+    {
+      "id": "#enderscape:magnia_blocks",
+      "required": false
+    },
+    {
+      "id": "#enderscape:etched_magnia_blocks",
+      "required": false
     }
   ]
 }

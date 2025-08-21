@@ -1,0 +1,39 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:raw_materials/shadoline"
+      }
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:ingots/shadoline"
+      }
+    }
+  ],
+  "type": "immersiveengineering:arc_furnace",
+  "additives": [],
+  "energy": 25600,
+  "input": {
+    "tag": "c:raw_materials/shadoline"
+  },
+  "results": [
+    {
+      "tag": "c:ingots/shadoline"
+    }
+  ],
+  "secondaries": [
+    {
+      "chance": 0.5,
+      "conditions": [],
+      "output": {
+        "tag": "c:ingots/shadoline"
+      }
+    }
+  ],
+  "time": 100
+}

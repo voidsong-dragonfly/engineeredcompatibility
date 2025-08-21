@@ -1,0 +1,27 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:ores/nebulite"
+      }
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "enderscape"
+    }
+  ],
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "tag": "c:ores/nebulite"
+  },
+  "result": {
+    "basePredicate": {
+      "item": "enderscape:nebulite_shards"
+    },
+    "count": 5
+  },
+  "secondaries": []
+}

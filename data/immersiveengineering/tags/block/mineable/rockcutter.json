@@ -131,6 +131,30 @@
     {
       "id": "elementalcraft:burnt_glass_pane",
       "required": false
+    },
+    {
+      "id": "enderscape:mirestone",
+      "required": false
+    },
+    {
+      "id": "enderscape:kurodite",
+      "required": false
+    },
+    {
+      "id": "enderscape:veradite",
+      "required": false
+    },
+    {
+      "id": "enderscape:veiled_end_stone",
+      "required": false
+    },
+    {
+      "id": "enderscape:celestial_overgrowth",
+      "required": false
+    },
+    {
+      "id": "enderscape:corrupt_overgrowth",
+      "required": false
     }
   ]
 }
