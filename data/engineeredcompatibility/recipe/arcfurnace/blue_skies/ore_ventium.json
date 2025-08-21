@@ -4,14 +4,14 @@
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:ores/ventium"
+        "tag": "blue_skies:ores/ventium"
       }
     },
     {
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:ingots/ventium"
+        "tag": "blue_skies:ingots/ventium"
       }
     }
   ],
@@ -19,18 +19,18 @@
   "additives": [],
   "energy": 102400,
   "input": {
-    "tag": "c:ores/ventium"
+    "tag": "blue_skies:ores/ventium"
   },
   "results": [
     {
       "basePredicate": {
-        "tag": "c:ingots/ventium"
+        "tag": "blue_skies:ingots/ventium"
       },
-      "count": 2
+      "blue_skiesount": 2
     }
   ],
   "slag": {
-    "tag": "c:slag"
+    "tag": "blue_skies:slag"
   },
   "time": 200
 }

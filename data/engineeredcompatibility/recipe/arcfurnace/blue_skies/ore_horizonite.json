@@ -4,14 +4,14 @@
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:ores/horizonite"
+        "tag": "blue_skies:ores/horizonite"
       }
     },
     {
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:ingots/horizonite"
+        "tag": "blue_skies:ingots/horizonite"
       }
     }
   ],
@@ -19,18 +19,18 @@
   "additives": [],
   "energy": 102400,
   "input": {
-    "tag": "c:ores/horizonite"
+    "tag": "blue_skies:ores/horizonite"
   },
   "results": [
     {
       "basePredicate": {
-        "tag": "c:ingots/horizonite"
+        "tag": "blue_skies:ingots/horizonite"
       },
-      "count": 2
+      "blue_skiesount": 2
     }
   ],
   "slag": {
-    "tag": "c:slag"
+    "tag": "blue_skies:slag"
   },
   "time": 200
 }

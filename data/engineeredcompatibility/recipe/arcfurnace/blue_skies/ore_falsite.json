@@ -4,14 +4,14 @@
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:ores/falsite"
+        "tag": "blue_skies:ores/falsite"
       }
     },
     {
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:ingots/falsite"
+        "tag": "blue_skies:ingots/falsite"
       }
     }
   ],
@@ -19,18 +19,18 @@
   "additives": [],
   "energy": 102400,
   "input": {
-    "tag": "c:ores/falsite"
+    "tag": "blue_skies:ores/falsite"
   },
   "results": [
     {
       "basePredicate": {
-        "tag": "c:ingots/falsite"
+        "tag": "blue_skies:ingots/falsite"
       },
-      "count": 2
+      "blue_skiesount": 2
     }
   ],
   "slag": {
-    "tag": "c:slag"
+    "tag": "blue_skies:slag"
   },
   "time": 200
 }

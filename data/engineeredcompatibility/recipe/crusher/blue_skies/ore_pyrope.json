@@ -4,27 +4,27 @@
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:ores/pyrope"
+        "tag": "blue_skies:ores/pyrope"
       }
     },
     {
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:gems/pyrope"
+        "tag": "blue_skies:gems/pyrope"
       }
     }
   ],
   "type": "immersiveengineering:crusher",
   "energy": 6000,
   "input": {
-    "tag": "c:ores/pyrope"
+    "tag": "blue_skies:ores/pyrope"
   },
   "result": {
     "basePredicate": {
-      "tag": "c:gems/pyrope"
+      "tag": "blue_skies:gems/pyrope"
     },
-    "count": 2
+    "blue_skiesount": 2
   },
   "secondaries": []
 }

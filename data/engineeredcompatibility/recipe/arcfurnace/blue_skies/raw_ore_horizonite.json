@@ -4,14 +4,14 @@
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:raw_materials/horizonite"
+        "tag": "blue_skies:raw_materials/horizonite"
       }
     },
     {
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:ingots/horizonite"
+        "tag": "blue_skies:ingots/horizonite"
       }
     }
   ],
@@ -19,19 +19,19 @@
   "additives": [],
   "energy": 25600,
   "input": {
-    "tag": "c:raw_materials/horizonite"
+    "tag": "blue_skies:raw_materials/horizonite"
   },
   "results": [
     {
-      "tag": "c:ingots/horizonite"
+      "tag": "blue_skies:ingots/horizonite"
     }
   ],
   "secondaries": [
     {
-      "chance": 0.5,
-      "conditions": [],
+      "blue_skieshance": 0.5,
+      "blue_skiesonditions": [],
       "output": {
-        "tag": "c:ingots/horizonite"
+        "tag": "blue_skies:ingots/horizonite"
       }
     }
   ],

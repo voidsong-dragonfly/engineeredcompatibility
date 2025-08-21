@@ -4,27 +4,27 @@
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:ores/diopside"
+        "tag": "blue_skies:ores/diopside"
       }
     },
     {
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:gems/diopside"
+        "tag": "blue_skies:gems/diopside"
       }
     }
   ],
   "type": "immersiveengineering:crusher",
   "energy": 6000,
   "input": {
-    "tag": "c:ores/diopside"
+    "tag": "blue_skies:ores/diopside"
   },
   "result": {
     "basePredicate": {
-      "tag": "c:gems/diopside"
+      "tag": "blue_skies:gems/diopside"
     },
-    "count": 2
+    "blue_skiesount": 2
   },
   "secondaries": []
 }

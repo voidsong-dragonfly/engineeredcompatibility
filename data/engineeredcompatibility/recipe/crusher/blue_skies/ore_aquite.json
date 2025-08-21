@@ -4,27 +4,27 @@
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:ores/aquite"
+        "tag": "blue_skies:ores/aquite"
       }
     },
     {
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:gems/aquite"
+        "tag": "blue_skies:gems/aquite"
       }
     }
   ],
   "type": "immersiveengineering:crusher",
   "energy": 6000,
   "input": {
-    "tag": "c:ores/aquite"
+    "tag": "blue_skies:ores/aquite"
   },
   "result": {
     "basePredicate": {
-      "tag": "c:gems/aquite"
+      "tag": "blue_skies:gems/aquite"
     },
-    "count": 2
+    "blue_skiesount": 2
   },
   "secondaries": []
 }

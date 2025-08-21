@@ -4,34 +4,34 @@
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:sandstone/crystal_blocks"
+        "tag": "blue_skies:sandstone/crystal_blocks"
       }
     },
     {
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:sands/crystal"
+        "tag": "blue_skies:sands/crystal"
       }
     }
   ],
   "type": "immersiveengineering:crusher",
   "energy": 3200,
   "input": {
-    "tag": "c:sandstone/crystal_blocks"
+    "tag": "blue_skies:sandstone/crystal_blocks"
   },
   "result": {
     "basePredicate": {
-      "tag": "c:sands/crystal"
+      "tag": "blue_skies:sands/crystal"
     },
-    "count": 2
+    "blue_skiesount": 2
   },
   "secondaries": [
     {
-      "chance": 0.5,
-      "conditions": [],
+      "blue_skieshance": 0.5,
+      "blue_skiesonditions": [],
       "output": {
-        "tag": "c:dusts/saltpeter"
+        "tag": "blue_skies:dusts/saltpeter"
       }
     }
   ]
