@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:ores/ether"
+      }
+    }
+  ],
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "tag": "c:ores/ether"
+  },
+  "result": {
+    "basePredicate": {
+      "item": "etheria:ether_shard"
+    },
+    "count": 4
+  },
+  "secondaries": []
+}
