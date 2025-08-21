@@ -1,0 +1,30 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "toxony"
+    }
+  ],
+  "type": "immersiveengineering:arc_furnace",
+  "additives": [
+    {
+      "basePredicate": {
+        "item": "toxony:silver_scrap"
+      },
+      "count": 4
+    }
+  ],
+  "energy": 204800,
+  "input": {
+    "basePredicate": {
+      "tag": "c:ingots/steel"
+    },
+    "count": 2
+  },
+  "results": [
+    {
+      "item": "toxony:silver_steel_ingot"
+    }
+  ],
+  "time": 400
+}
