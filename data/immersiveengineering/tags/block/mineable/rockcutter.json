@@ -145,6 +145,10 @@
       "required": false
     },
     {
+      "id": "enderscape:void_shale",
+      "required": false
+    },
+    {
       "id": "enderscape:veiled_end_stone",
       "required": false
     },
