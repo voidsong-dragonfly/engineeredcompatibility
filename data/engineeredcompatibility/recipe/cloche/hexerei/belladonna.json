@@ -1,0 +1,30 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "hexerei"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "hexerei:belladonna_plant"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "hexerei:belladonna_plant"
+  },
+  "results": [
+    {
+      "count": 2,
+      "id": "hexerei:belladonna_flowers"
+    },
+    {
+      "count": 2,
+      "id": "hexerei:belladonna_berries"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:dirt"
+  },
+  "time": 560
+}

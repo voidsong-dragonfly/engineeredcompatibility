@@ -117,6 +117,22 @@
     {
       "id": "#enderscape:etched_magnia_blocks",
       "required": false
+    },
+    {
+      "id": "hexerei:mixing_cauldron",
+      "required": false
+    },
+    {
+      "id": "hexerei:candle_dipper",
+      "required": false
+    },
+    {
+      "id": "hexerei:sage_burning_plate",
+      "required": false
+    },
+    {
+      "id": "hexerei:candelabra",
+      "required": false
     }
   ]
 }

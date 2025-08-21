@@ -1,0 +1,33 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "hexerei"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "hexerei:mandrake_plant"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "hexerei:mandrake_plant"
+  },
+  "results": [
+    {
+      "count": 2,
+      "id": "hexerei:mandrake_flowers"
+    },
+    {
+      "id": "hexerei:mandrake_root"
+    }
+  ],
+  "soil": {
+    "item": "farmersdelight:rich_soil"
+  },
+  "time": 370
+}

@@ -1,0 +1,30 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "hexerei"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "hexerei:yellow_dock_bush"
+  },
+  "render": {
+    "type": "immersiveengineering:doublecrop",
+    "block": "hexerei:yellow_dock_bush",
+    "doublingAge": 0
+  },
+  "results": [
+    {
+      "count": 3,
+      "id": "hexerei:yellow_dock_leaves"
+    },
+    {
+      "id": "hexerei:yellow_dock_flowers"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:dirt"
+  },
+  "time": 560
+}

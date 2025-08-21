@@ -1,0 +1,30 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "hexerei"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "hexerei:mugwort_bush"
+  },
+  "render": {
+    "type": "immersiveengineering:doublecrop",
+    "block": "hexerei:mugwort_bush",
+    "doublingAge": 0
+  },
+  "results": [
+    {
+      "count": 3,
+      "id": "hexerei:mugwort_leaves"
+    },
+    {
+      "id": "hexerei:mugwort_flowers"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:dirt"
+  },
+  "time": 560
+}
