@@ -1,0 +1,32 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "enchanted"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "enchanted:wolfsbane_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "enchanted:wolfsbane"
+  },
+  "results": [
+    {
+      "id": "enchanted:wolfsbane_flower"
+    },
+    {
+      "id": "enchanted:wolfsbane_seeds"
+    }
+  ],
+  "soil": {
+    "item": "farmersdelight:rich_soil"
+  },
+  "time": 370
+}

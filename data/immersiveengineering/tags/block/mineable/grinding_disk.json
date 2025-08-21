@@ -133,6 +133,38 @@
     {
       "id": "hexerei:candelabra",
       "required": false
+    },
+    {
+      "id": "#enchanted:chalices",
+      "required": false
+    },
+    {
+      "id": "enchanted:candelabra",
+      "required": false
+    },
+    {
+      "id": "enchanted:witch_oven",
+      "required": false
+    },
+    {
+      "id": "enchanted:fume_funnel",
+      "required": false
+    },
+    {
+      "id": "enchanted:fume_funnel_filtered",
+      "required": false
+    },
+    {
+      "id": "enchanted:distillery",
+      "required": false
+    },
+    {
+      "id": "enchanted:witch_cauldron",
+      "required": false
+    },
+    {
+      "id": "enchanted:kettle",
+      "required": false
     }
   ]
 }

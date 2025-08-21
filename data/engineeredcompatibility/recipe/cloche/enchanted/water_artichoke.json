@@ -1,0 +1,29 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "enchanted"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "enchanted:water_artichoke_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "enchanted:water_artichoke"
+  },
+  "results": [
+    {
+      "id": "enchanted:water_artichoke"
+    },
+    {
+      "id": "enchanted:water_artichoke_seeds",
+      "count": 2
+    }
+  ],
+  "soil":{
+    "item": "minecraft:water_bucket"
+  },
+  "time": 560
+}
