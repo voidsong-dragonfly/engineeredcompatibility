@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "hexalia"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "hexalia:lavender"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "hexalia:lavender"
+  },
+  "results": [
+    {
+      "id": "hexalia:lavender"
+    }
+  ],
+  "soil":{
+    "item": "minecraft:dirt"
+  },
+  "time": 480
+}

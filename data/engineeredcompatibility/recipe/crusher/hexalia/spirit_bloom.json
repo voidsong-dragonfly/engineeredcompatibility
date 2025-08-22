@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "hexalia"
+    }
+  ],
+  "type": "immersiveengineering:crusher",
+  "energy": 1600,
+  "input": {
+    "item": "hexalia:spirit_bloom"
+  },
+  "result": {
+    "basePredicate": {
+      "item": "hexalia:spirit_powder"
+    },
+    "count": 2
+  }
+}

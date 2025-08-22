@@ -1,0 +1,33 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "hexalia"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "hexalia:sunfire_tomato_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "hexalia:sunfire_tomato_crop"
+  },
+  "results": [
+    {
+      "count": 2,
+      "id": "hexalia:sunfire_tomato"
+    },
+    {
+      "id": "hexalia:sunfire_tomato_seeds"
+    }
+  ],
+  "soil": {
+    "item": "farmersdelight:rich_soil"
+  },
+  "time": 370
+}

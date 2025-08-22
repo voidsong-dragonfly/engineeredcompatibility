@@ -1,0 +1,34 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "hexalia"
+    }
+  ],
+  "type": "immersiveengineering:sawmill",
+  "energy": 1600,
+  "input": [
+    {
+      "item": "hexalia:cottonwood_log"
+    }
+  ],
+  "result": {
+    "basePredicate": {
+      "item": "hexalia:cottonwood_planks"
+    },
+    "count": 6
+  },
+  "secondaryOutputs": [
+    {
+      "tag": "c:dusts/wood"
+    }
+  ],
+  "stripped": {
+    "item": "hexalia:stripped_cottonwood_log"
+  },
+  "strippingSecondaries": [
+    {
+      "tag": "c:dusts/wood"
+    }
+  ]
+}

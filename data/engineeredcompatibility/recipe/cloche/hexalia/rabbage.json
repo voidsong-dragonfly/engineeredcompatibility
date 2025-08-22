@@ -1,0 +1,29 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "hexalia"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "hexalia:rabbage_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "hexalia:rabbage_crop"
+  },
+  "results": [
+    {
+      "count": 2,
+      "id": "hexalia:rabbage"
+    },
+    {
+      "id": "hexalia:rabbage_seeds"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:dirt"
+  },
+  "time": 560
+}

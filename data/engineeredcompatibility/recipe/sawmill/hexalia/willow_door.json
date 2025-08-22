@@ -1,0 +1,22 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "hexalia"
+    }
+  ],
+  "type": "immersiveengineering:sawmill",
+  "energy": 800,
+  "input": {
+    "item": "hexalia:willow_door"
+  },
+  "result": {
+    "item": "hexalia:willow_planks"
+  },
+  "secondaryOutputs": [
+    {
+      "tag": "c:dusts/wood"
+    }
+  ],
+  "strippingSecondaries": []
+}
