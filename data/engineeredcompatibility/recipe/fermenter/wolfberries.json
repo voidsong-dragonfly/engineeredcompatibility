@@ -1,11 +1,8 @@
 {
   "neoforge:conditions": [
     {
-      "type": "neoforge:not",
-      "value": {
-        "type": "neoforge:tag_empty",
-        "tag": "c:fruits/wolfberries"
-      }
+      "type": "neoforge:mod_loaded",
+      "modid": "caupona"
     }
   ],
   "type": "immersiveengineering:fermenter",
@@ -16,7 +13,7 @@
   },
   "input": {
     "basePredicate": {
-      "tag": "c:fruits/wolfberries"
+      "item": "caupona:wolfberries"
     },
     "count": 1
   }
