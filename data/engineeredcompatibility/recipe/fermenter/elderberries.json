@@ -1,11 +1,8 @@
 {
   "neoforge:conditions": [
     {
-      "type": "neoforge:not",
-      "value": {
-        "type": "neoforge:tag_empty",
-        "tag": "c:fruits/elderberry"
-      }
+      "type": "neoforge:mod_loaded",
+      "modid": "rootsclassic"
     }
   ],
   "type": "immersiveengineering:fermenter",
@@ -16,7 +13,7 @@
   },
   "input": {
     "basePredicate": {
-      "tag": "c:fruits/elderberry"
+      "item": "rootsclassic:elderberry"
     },
     "count": 1
   }
