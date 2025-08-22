@@ -1,11 +1,8 @@
 {
   "neoforge:conditions": [
     {
-      "type": "neoforge:not",
-      "value": {
-        "type": "neoforge:tag_empty",
-        "tag": "c:fruits/sourceberry"
-      }
+      "type": "neoforge:mod_loaded",
+      "modid": "arsnouveau"
     }
   ],
   "type": "immersiveengineering:fermenter",
@@ -16,7 +13,7 @@
   },
   "input": {
     "basePredicate": {
-      "tag": "c:fruits/sourceberry"
+      "item": "arsnouveau:sourceberry_bush"
     },
     "count": 1
   }
