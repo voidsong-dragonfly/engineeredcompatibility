@@ -1,0 +1,35 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "expandeddelight"
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:dusts/cinnamon"
+      }
+    }
+  ],
+  "type": "immersiveengineering:crusher",
+  "energy": 1200,
+  "input": {
+    "item": "expandeddelight:cinnamon_stick"
+  },
+  "result": {
+    "basePredicate": {
+      "tag": "c:dusts/cinnamon"
+    },
+    "count": 2
+  },
+  "secondaries": [
+    {
+      "chance": 0.5,
+      "conditions": [],
+      "output": {
+        "tag": "c:dusts/cinnamon"
+      }
+    }
+  ]
+}

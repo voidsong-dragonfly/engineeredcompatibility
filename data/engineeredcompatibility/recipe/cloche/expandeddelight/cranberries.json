@@ -1,0 +1,26 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "expandeddelight"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "expandeddelight:cranberries"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "expandeddelight:cranberry_plant"
+  },
+  "results": [
+    {
+      "id": "expandeddelight:cranberries",
+      "count": 2
+    }
+  ],
+  "soil":{
+    "item": "minecraft:water_bucket"
+  },
+  "time": 560
+}

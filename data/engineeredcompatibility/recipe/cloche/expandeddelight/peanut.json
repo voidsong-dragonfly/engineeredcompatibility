@@ -1,0 +1,26 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "expandeddelight"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "expandeddelight:peanut"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "expandeddelight:peanut_crop"
+  },
+  "results": [
+    {
+      "id": "expandeddelight:peanut",
+      "count": 2
+    }
+  ],
+  "soil": {
+    "item": "minecraft:dirt"
+  },
+  "time": 800
+}

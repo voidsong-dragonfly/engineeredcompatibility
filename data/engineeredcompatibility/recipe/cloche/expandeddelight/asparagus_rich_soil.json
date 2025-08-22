@@ -1,0 +1,33 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "expandeddelight"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "expandeddelight:asparagus_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "expandeddelight:asparagus_crop"
+  },
+  "results": [
+    {
+      "count": 2,
+      "id": "expandeddelight:asparagus"
+    },
+    {
+      "id": "expandeddelight:asparagus_seeds"
+    }
+  ],
+  "soil": {
+    "item": "farmersdelight:rich_soil"
+  },
+  "time": 425
+}

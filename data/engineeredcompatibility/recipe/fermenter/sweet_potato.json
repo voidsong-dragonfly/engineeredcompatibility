@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:crops/sweet_potato"
+      }
+    }
+  ],
+  "type": "immersiveengineering:fermenter",
+  "energy": 6400,
+  "fluid": {
+    "amount": 100,
+    "id": "immersiveengineering:ethanol"
+  },
+  "input": {
+    "basePredicate": {
+      "tag": "c:crops/sweet_potato"
+    },
+    "count": 1
+  }
+}

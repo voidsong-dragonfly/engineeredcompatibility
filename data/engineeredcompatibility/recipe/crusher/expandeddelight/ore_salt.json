@@ -1,0 +1,38 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:ores/salt"
+      }
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:dusts/salt"
+      }
+    }
+  ],
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "tag": "c:ores/salt"
+  },
+  "result": {
+    "basePredicate": {
+      "tag": "c:dusts/salt"
+    },
+    "count": 4
+  },
+  "secondaries": [
+    {
+      "chance": 0.75,
+      "conditions": [],
+      "output": {
+        "tag": "c:dusts/salt"
+      }
+    }
+  ]
+}
