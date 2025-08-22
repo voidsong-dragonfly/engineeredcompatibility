@@ -1,0 +1,22 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "malum"
+    }
+  ],
+  "type": "immersiveengineering:sawmill",
+  "energy": 800,
+  "input": {
+    "item": "malum:soulwood_door"
+  },
+  "result": {
+    "item": "malum:soulwood_planks"
+  },
+  "secondaryOutputs": [
+    {
+      "tag": "c:dusts/wood"
+    }
+  ],
+  "strippingSecondaries": []
+}

@@ -1,0 +1,34 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "malum"
+    }
+  ],
+  "type": "immersiveengineering:sawmill",
+  "energy": 1600,
+  "input": [
+    {
+      "item": "malum:soulwood_log"
+    }
+  ],
+  "result": {
+    "basePredicate": {
+      "item": "malum:soulwood_planks"
+    },
+    "count": 6
+  },
+  "secondaryOutputs": [
+    {
+      "tag": "c:dusts/wood"
+    }
+  ],
+  "stripped": {
+    "item": "malum:stripped_soulwood_log"
+  },
+  "strippingSecondaries": [
+    {
+      "tag": "c:dusts/wood"
+    }
+  ]
+}
