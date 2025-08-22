@@ -1,0 +1,20 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "hexalia"
+    }
+  ],
+  "type": "immersiveengineering:fermenter",
+  "energy": 6400,
+  "fluid": {
+    "amount": 90,
+    "id": "immersiveengineering:ethanol"
+  },
+  "input": {
+    "basePredicate": {
+      "item": "hexalia:sunfire_tomato"
+    },
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:seeds/sunfire_tomato"
+      }
+    }
+  ],
+  "type": "immersiveengineering:squeezer",
+  "energy": 6400,
+  "fluid": {
+    "amount": 60,
+    "id": "immersiveengineering:plantoil"
+  },
+  "input": {
+    "basePredicate": {
+      "tag": "c:seeds/sunfire_tomato"
+    },
+    "count": 1
+  }
+}

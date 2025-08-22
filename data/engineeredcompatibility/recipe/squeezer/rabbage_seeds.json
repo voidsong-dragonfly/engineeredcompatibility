@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:seeds/rabbage"
+      }
+    }
+  ],
+  "type": "immersiveengineering:squeezer",
+  "energy": 6400,
+  "fluid": {
+    "amount": 80,
+    "id": "immersiveengineering:plantoil"
+  },
+  "input": {
+    "basePredicate": {
+      "tag": "c:seeds/rabbage"
+    },
+    "count": 1
+  }
+}
