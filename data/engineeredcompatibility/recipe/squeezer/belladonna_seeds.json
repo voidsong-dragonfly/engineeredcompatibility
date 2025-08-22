@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:seeds/belladonna"
+      }
+    }
+  ],
+  "type": "immersiveengineering:squeezer",
+  "energy": 6400,
+  "fluid": {
+    "amount": 30,
+    "id": "immersiveengineering:plantoil"
+  },
+  "input": {
+    "basePredicate": {
+      "tag": "c:seeds/belladonna"
+    },
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "enchanted:mandrake_seeds",
+      "required": false
+    },
+    {
+      "id": "hexalia:mandrake_seeds",
+      "required": false
+    }
+  ]
+}
