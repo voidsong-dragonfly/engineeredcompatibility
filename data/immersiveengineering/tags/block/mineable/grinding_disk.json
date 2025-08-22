@@ -165,6 +165,26 @@
     {
       "id": "enchanted:kettle",
       "required": false
+    },
+    {
+      "id": "forbidden_arcanus:deorum_lantern",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:deorum_soul_lantern",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:deorum_chain",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:deorum_trapdoor",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:deorum_door",
+      "required": false
     }
   ]
 }
