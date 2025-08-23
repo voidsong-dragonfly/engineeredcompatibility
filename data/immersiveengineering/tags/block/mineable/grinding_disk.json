@@ -201,6 +201,26 @@
     {
       "id": "caupona:wolf_statue",
       "required": false
+    },
+    {
+      "id": "naturesaura:dimension_rail_overworld",
+      "required": false
+    },
+    {
+      "id": "naturesaura:dimension_rail_nether",
+      "required": false
+    },
+    {
+      "id": "naturesaura:dimension_rail_end",
+      "required": false
+    },
+    {
+      "id": "naturesaura:grated_chute",
+      "required": false
+    },
+    {
+      "id": "naturesaura:hopper_upgrade",
+      "required": false
     }
   ]
 }
