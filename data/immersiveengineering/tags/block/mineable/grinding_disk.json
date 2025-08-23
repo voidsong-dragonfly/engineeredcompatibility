@@ -305,6 +305,14 @@
     {
       "id": "theurgy:sal_ammoniac_accumulator",
       "required": false
+    },
+    {
+      "id": "toxony:copper_crucible",
+      "required": false
+    },
+    {
+      "id": "toxony:alembic",
+      "required": false
     }
   ]
 }
