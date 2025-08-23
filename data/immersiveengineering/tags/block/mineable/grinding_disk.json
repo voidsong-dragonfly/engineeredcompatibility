@@ -193,6 +193,14 @@
     {
       "id": "irons_spellbooks:alchemist_cauldron",
       "required": false
+    },
+    {
+      "id": "caupona:litharge_bloom",
+      "required": false
+    },
+    {
+      "id": "caupona:wolf_statue",
+      "required": false
     }
   ]
 }
