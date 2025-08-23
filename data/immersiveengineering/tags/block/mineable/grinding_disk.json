@@ -285,6 +285,26 @@
     {
       "id": "suppsquared:gold_plaque",
       "required": false
+    },
+    {
+      "id": "theurgy:calcination_oven",
+      "required": false
+    },
+    {
+      "id": "theurgy:pyromantic_brazier",
+      "required": false
+    },
+    {
+      "id": "theurgy:liquefaction_cauldron",
+      "required": false
+    },
+    {
+      "id": "theurgy:distiller",
+      "required": false
+    },
+    {
+      "id": "theurgy:sal_ammoniac_accumulator",
+      "required": false
     }
   ]
 }

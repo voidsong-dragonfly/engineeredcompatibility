@@ -1,0 +1,30 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:ores/sal_ammoniac"
+      }
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:gems/sal_ammoniac"
+      }
+    }
+  ],
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "tag": "c:ores/sal_ammoniac"
+  },
+  "result": {
+    "basePredicate": {
+      "tag": "c:gems/sal_ammoniac"
+    },
+    "count": 3
+  },
+  "secondaries": []
+}
