@@ -18,10 +18,58 @@ Mod-Datapack adding mod compat to Immersive Engineering machines &amp; products.
  - Create: Bitterballen:
     - Adds Ketchup, Mayonnaise, Frying Oil and Curdled Milk to the Mixer, courtesy of [Gammel2013](https://github.com/Gammel2013)
     - Adds Sunflower Seeds and Nether Wart to the Crusher, courtesy of [Gammel2013](https://github.com/Gammel2013)
+ - Enderscape:
+    - Adds Shadoline smelting to the Arc Furnace
+    - Adds Nebulite to the Crusher
+    - Adds Veiled, Celestial, and Murublight woodsets to the Sawmill
+    - Adds Magnia and Shadoline blocks to the Grinding Disc
+    - Adds Kurodite, Veradite, Mirestone, Void Shale, Veiled End Stone, Celestial Overgrowth, and Corrupt Overgrowth to the Rockcutter Blade
+    - Adds Flanger Berries to the Fermenter
+ - Enchanted: Witchcraft:
+    - Adds Belladonna, Garlic, Snowbell, Wolfsbane, and Water Artichoke to the Cloche
+    - Adds Hawthorne, Rowan, and Alder woodsets to the Sawmill
+    - Adds Witch's Oven, Kettle, Witch's Cauldron, Fume Funnel, Distillery, Candelabra, and Chalices to the Grinding Disc
+    - Adds Belladonna, Snowbell, Wolfsbane, Mandrake, and Water Artichoke seeds to the Squeezer
+ - Etheria:
+    - Adds Ether Ore to the Crusher
+ - Expanded Delight:
+    - Adds Cinnamon woodset to the Sawmill
+    - Adds Asparagus, Chili Peppers, Sweet Potato, Cranberries, and Peanuts to the Cloche
+    - Adds Sweet Potato and Cranberries to the Fermenter
+    - Adds Asparagus Seeds, Chili Pepper Seeds, and Peanuts to the Squeezer
+    - Adds Cinnamon Sticks and Salt to the Crusher
+ - Iron's Spells and Spellbooks:
+    - Adds Alchemist's Cauldron and Armor Piles to the Grinding Disc
+ - Forbidden & Arcanus:
+    - Adds Obsidiansteel smelting to the Arc Furnace
+    - Adds Deorum blocks to the Grinding Disc
+ - Hexalia:
+    - Adds Begonia, Dahlia, Duckweed, Henbane, Hexed Bulrush, Pale Mushroom, Nightshade Bush, & Witchweed to the Cloche
+    - Adds Chillberries, Rabbage. Sunfire Tomato, & Mandrake to the Cloche
+    - Adds Ghost Fern, Dreamshroom, Spirit Bloom, & Celestial Bloom to the Cloche
+    - Adds Dreamshroom, Ghost Fern, Siren's Kelp, & Spirit Bloom to the Crusher
+    - Adds Cottonwood & Willow woodsets to the Sawmill
+    - Adds Rabbage, Sunfire Tomato, and Mandrake seeds to the Squeezer
+    - Adds Sunfire Tomato, Chillberries, and Galeberries to the Fermenter
+ - Hexerei:
+    - Adds Mahogany, Willow, and Witch Hazel woodsets to the Sawmill
+    - Adds Belladonna, Mandrake, Sage, Yellow Dock, and Mugwort to the Cloche
+    - Adds Candelaba, Mixing Cauldron, Candle Dipper, and Sage Burning Plate to the Grinding Disc
+    - Adds Sage seeds to the Squeezer
+ - Malum:
+    - Adds Soulwood and Runewood woodsets to the Sawmill
  - PneumaticCraft: Repressurized:
     - Adds Compressed Iron Gears to the Metal Press
+    - Adds Kerosene and Diesel to the Diesel Generator
+ - Project: Vibrant Journeys:
+    - Adds Beach Grass, Cattails, Cinder Cane, Crimson Nettle, Warped Nettle, Glowcaps, Pink Lotus, Prickly Bush, Sea Oats, Small Cactus, and Watergrass to the Cloche
  - Supplementaries:
     - Adds Flax to the Cloche
+    - Adds Metal Plaques, Netherite and Gold Doors & Trapdoors, Wind Vanes, Cogs, Goblets, Cages, Copper Lanterns, and Metal Frames to the Grinding Disc
+ - Theurgy:
+    - Adds Sal Ammoniac ore to the Crusher
+    - Adds Added Mercury Distiller, Pyromantic Brazier, Liquefaction Cauldron, Calcination Oven, and Sal Ammoniac Accumulator to the Griding Dis
+
 
 ### 1.20.4 Additional Supported Mods:
  - Applied Energistics 2:
@@ -37,17 +85,17 @@ Mod-Datapack adding mod compat to Immersive Engineering machines &amp; products.
  - ElementalCraft:
      - Adds Springaline, Springaline Buds, Springaline Glass, and Burnt Glass to the Rockcutting Blade
  - PneumaticCraft: Repressurized:
-     - Added High-Cetane Biodiesel to the fuel registry
-     - Added Etching Acid recipe to the Mixer
-     - Added Tough Fabric recipe for Bandages
-     - Added Smooth Plastic Bricks to the "connector insulator" list
-     - Added compat between IE and PNC circuit construction systems
+     - Adds High-Cetane Biodiesel to the fuel registry
+     - Adds Etching Acid recipe to the Mixer
+     - Adds Tough Fabric recipe for Bandages
+     - Adds Smooth Plastic Bricks to the "connector insulator" list
+     - Adds compat between IE and PNC circuit construction systems
          - Plastic Sheets can be used to make circuit backplanes in the Engineer's Workbench
          - Duroplast Sheets can be used to make Capacitors and Empty PCBs in the Engineer's Workbench
          - Finished PCBs can be made with Capacitors and Vacuum Tubes in the Engineer's Workbench
          - Etching Acid can be made from Phenolic Resin in the Mixer without mob parts
  - Serene Seasons:
-     - Added season support to Industrial Hemp
+     - Adds season support to Industrial Hemp
  - Totemic:
      - Adds Red Cedar woodset to the Sawmill
  - Tough As Nails:

@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "hexerei"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "hexerei:flowering_lily_pad"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "hexerei:flowering_lily_pad"
+  },
+  "results": [
+    {
+      "id": "hexerei:flowering_lily_pad"
+    }
+  ],
+  "soil":{
+    "item": "minecraft:water_bucket"
+  },
+  "time": 480
+}
