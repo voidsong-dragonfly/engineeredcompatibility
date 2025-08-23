@@ -185,6 +185,14 @@
     {
       "id": "forbidden_arcanus:deorum_door",
       "required": false
+    },
+    {
+      "id": "irons_spellbooks:armor_pile",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:alchemist_cauldron",
+      "required": false
     }
   ]
 }
