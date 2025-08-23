@@ -221,6 +221,70 @@
     {
       "id": "naturesaura:hopper_upgrade",
       "required": false
+    },
+    {
+      "id": "supplementaries:netherite_door",
+      "required": false
+    },
+    {
+      "id": "supplementaries:netherite_trapdoor",
+      "required": false
+    },
+    {
+      "id": "supplementaries:gold_door",
+      "required": false
+    },
+    {
+      "id": "supplementaries:gold_trapdoor",
+      "required": false
+    },
+    {
+      "id": "supplementaries:iron_gate",
+      "required": false
+    },
+    {
+      "id": "supplementaries:cage",
+      "required": false
+    },
+    {
+      "id": "supplementaries:cog_block",
+      "required": false
+    },
+    {
+      "id": "supplementaries:wind_vane",
+      "required": false
+    },
+    {
+      "id": "supplementaries:goblet",
+      "required": false
+    },
+    {
+      "id": "suppsquared:metal_frame",
+      "required": false
+    },
+    {
+      "id": "suppsquared:metal_brace",
+      "required": false
+    },
+    {
+      "id": "suppsquared:metal_cross_brace",
+      "required": false
+    },
+    {
+      "id": "suppsquared:copper_lantern",
+      "required": false
+    },
+    {
+      "id": "suppsquared:copper_plaque",
+      "required": false
+    },
+    {
+      "id": "suppsquared:iron_plaque",
+      "required": false
+    },
+    {
+      "id": "suppsquared:gold_plaque",
+      "required": false
     }
   ]
 }
