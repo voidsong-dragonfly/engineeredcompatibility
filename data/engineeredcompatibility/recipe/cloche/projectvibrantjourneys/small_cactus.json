@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "projectvibrantjourneys"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "projectvibrantjourneys:small_cactus"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "projectvibrantjourneys:small_cactus"
+  },
+  "results": [
+    {
+      "id": "projectvibrantjourneys:small_cactus"
+    }
+  ],
+  "soil":{
+    "item": "minecraft:sand"
+  },
+  "time": 480
+}

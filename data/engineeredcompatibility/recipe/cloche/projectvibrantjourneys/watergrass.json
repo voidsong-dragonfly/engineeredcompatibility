@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "projectvibrantjourneys"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "projectvibrantjourneys:watergrass"
+  },
+  "render": {
+    "type": "immersiveengineering:doubleflower",
+    "block": "projectvibrantjourneys:watergrass"
+  },
+  "results": [
+    {
+      "id": "projectvibrantjourneys:watergrass"
+    }
+  ],
+  "soil":{
+    "item": "minecraft:water_bucket"
+  },
+  "time": 480
+}

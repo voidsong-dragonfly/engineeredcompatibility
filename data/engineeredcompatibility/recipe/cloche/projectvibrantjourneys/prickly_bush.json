@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "projectvibrantjourneys"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "projectvibrantjourneys:prickly_bush"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "projectvibrantjourneys:prickly_bush"
+  },
+  "results": [
+    {
+      "id": "projectvibrantjourneys:prickly_bush"
+    }
+  ],
+  "soil":{
+    "item": "minecraft:coarse_dirt"
+  },
+  "time": 480
+}

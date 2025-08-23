@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "projectvibrantjourneys"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "projectvibrantjourneys:cattail"
+  },
+  "render": {
+    "type": "immersiveengineering:doubleflower",
+    "block": "projectvibrantjourneys:cattail"
+  },
+  "results": [
+    {
+      "id": "projectvibrantjourneys:cattail"
+    }
+  ],
+  "soil":{
+    "item": "minecraft:water_bucket"
+  },
+  "time": 480
+}

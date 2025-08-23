@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "projectvibrantjourneys"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "projectvibrantjourneys:sea_oats"
+  },
+  "render": {
+    "type": "immersiveengineering:doubleflower",
+    "block": "projectvibrantjourneys:sea_oats"
+  },
+  "results": [
+    {
+      "id": "projectvibrantjourneys:sea_oats"
+    }
+  ],
+  "soil":{
+    "item": "minecraft:sand"
+  },
+  "time": 480
+}

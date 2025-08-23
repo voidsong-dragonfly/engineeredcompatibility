@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "projectvibrantjourneys"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "projectvibrantjourneys:pink_lotus"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "projectvibrantjourneys:pink_lotus"
+  },
+  "results": [
+    {
+      "id": "projectvibrantjourneys:pink_lotus"
+    }
+  ],
+  "soil":{
+    "item": "minecraft:water_bucket"
+  },
+  "time": 480
+}

@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "projectvibrantjourneys"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "projectvibrantjourneys:beach_grass"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "projectvibrantjourneys:beach_grass"
+  },
+  "results": [
+    {
+      "id": "projectvibrantjourneys:beach_grass"
+    }
+  ],
+  "soil":{
+    "item": "minecraft:sand"
+  },
+  "time": 480
+}

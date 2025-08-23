@@ -1,0 +1,28 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "projectvibrantjourneys"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "fluid": {
+    "fluid": "minecraft:lava"
+  },
+  "input": {
+    "item": "projectvibrantjourneys:warped_nettle"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "projectvibrantjourneys:warped_nettle"
+  },
+  "results": [
+    {
+      "id": "projectvibrantjourneys:warped_nettle"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:warped_nylium"
+  },
+  "time": 480
+}

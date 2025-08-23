@@ -1,0 +1,28 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "projectvibrantjourneys"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "fluid": {
+    "fluid": "minecraft:lava"
+  },
+  "input": {
+    "item": "projectvibrantjourneys:glowcap"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "projectvibrantjourneys:glowcap"
+  },
+  "results": [
+    {
+      "id": "projectvibrantjourneys:glowcap"
+    }
+  ],
+  "soil": {
+    "tag": "c:netherracks"
+  },
+  "time": 560
+}

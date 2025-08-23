@@ -1,0 +1,29 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "projectvibrantjourneys"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "fluid": {
+    "fluid": "minecraft:lava"
+  },
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "projectvibrantjourneys:cindercane"
+  },
+  "render": {
+    "type": "immersiveengineering:stacking",
+    "block": "projectvibrantjourneys:cindercane"
+  },
+  "results": [
+    {
+      "id": "projectvibrantjourneys:cindercane"
+    }
+  ],
+  "soil": {
+    "tag": "c:netherracks"
+  },
+  "time": 560
+}
