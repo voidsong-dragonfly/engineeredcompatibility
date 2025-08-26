@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "pneumaticcraft"
+    }
+  ],
+  "type": "pneumaticcraft:fuel_quality",
+  "air_per_bucket": 900000,
+  "burn_rate": 1.0,
+  "fluid": {
+    "tag": "c:creosote"
+  }
+}
