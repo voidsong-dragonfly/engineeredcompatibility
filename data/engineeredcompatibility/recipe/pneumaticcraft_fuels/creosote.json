@@ -6,8 +6,8 @@
     }
   ],
   "type": "pneumaticcraft:fuel_quality",
-  "air_per_bucket": 900000,
-  "burn_rate": 1.0,
+  "air_per_bucket": 400000,
+  "burn_rate": 0.75,
   "fluid": {
     "tag": "c:creosote"
   }
