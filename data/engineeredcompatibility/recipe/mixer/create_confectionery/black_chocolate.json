@@ -1,0 +1,38 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create_confectionery"
+    }
+  ],
+  "type": "immersiveengineering:mixer",
+  "energy": 1600,
+  "fluid": {
+    "amount": 250,
+    "tag": "c:milk"
+  },
+  "inputs": [
+    {
+      "basePredicate": {
+        "tag": "c:crops/cocoa_bean"
+      },
+      "count": 2
+    },
+    {
+      "basePredicate": {
+        "tag": "c:sugars"
+      },
+      "count": 1
+    },
+    {
+      "basePredicate": {
+        "item": "create_confectionery:cocoa_butter"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "amount": 250,
+    "id": "create_confectionery:black_chocolate"
+  }
+}

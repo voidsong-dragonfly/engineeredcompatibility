@@ -1,0 +1,20 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create_confectionery"
+    }
+  ],
+  "type": "immersiveengineering:crusher",
+  "energy": 1600,
+  "input": {
+    "tag": "c:crops/cocoa_bean"
+  },
+  "result": {
+    "basePredicate": {
+      "item": "create_confectionery:crushed_cocoa"
+    },
+    "count": 1
+  },
+  "secondaries": []
+}
